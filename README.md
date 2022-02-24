@@ -1,2 +1,7 @@
 # Social_media_Android_application
-Tried to make an android application during internship. Application is similar to Instagram where people can connect with each other and can share images and videos, can chat with friends.
+•	Developed a social media android application replica like Instagram.
+•	Purpose was to explore the front and backend technologies like Java, PHP and XML. 
+•	Application was hosted on local XAMPP server.
+•	Used Firebase and MySQL to handle the user data.
+•	Application has different modules such as, user profile, verification of user using mail, feed and chatting. Also user can make new friends and share images and text on their timeline. 
+
